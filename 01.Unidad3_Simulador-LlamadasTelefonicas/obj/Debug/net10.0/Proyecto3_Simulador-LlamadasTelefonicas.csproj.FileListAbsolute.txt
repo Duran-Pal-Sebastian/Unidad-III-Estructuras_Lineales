@@ -1,0 +1,15 @@
+C:\Users\sebas\source\repos\Proyecto3_Simulador-LlamadasTelefonicas\obj\Debug\net10.0\Proyecto3_Simulador-LlamadasTelefonicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\source\repos\Proyecto3_Simulador-LlamadasTelefonicas\obj\Debug\net10.0\Proyecto3_Simulador-LlamadasTelefonicas.AssemblyInfoInputs.cache
+C:\Users\sebas\source\repos\Proyecto3_Simulador-LlamadasTelefonicas\obj\Debug\net10.0\Proyecto3_Simulador-LlamadasTelefonicas.AssemblyInfo.cs
+C:\Users\sebas\source\repos\Proyecto3_Simulador-LlamadasTelefonicas\obj\Debug\net10.0\Proyecto3_Simulador-LlamadasTelefonicas.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Proyecto3_Simulador-LlamadasTelefonicas\bin\Debug\net10.0\Proyecto3_Simulador-LlamadasTelefonicas.exe
+C:\Users\sebas\source\repos\Proyecto3_Simulador-LlamadasTelefonicas\bin\Debug\net10.0\Proyecto3_Simulador-LlamadasTelefonicas.deps.json
+C:\Users\sebas\source\repos\Proyecto3_Simulador-LlamadasTelefonicas\bin\Debug\net10.0\Proyecto3_Simulador-LlamadasTelefonicas.runtimeconfig.json
+C:\Users\sebas\source\repos\Proyecto3_Simulador-LlamadasTelefonicas\bin\Debug\net10.0\Proyecto3_Simulador-LlamadasTelefonicas.dll
+C:\Users\sebas\source\repos\Proyecto3_Simulador-LlamadasTelefonicas\bin\Debug\net10.0\Proyecto3_Simulador-LlamadasTelefonicas.pdb
+C:\Users\sebas\source\repos\Proyecto3_Simulador-LlamadasTelefonicas\obj\Debug\net10.0\Proyecto3_Simulador-LlamadasTelefonicas.dll
+C:\Users\sebas\source\repos\Proyecto3_Simulador-LlamadasTelefonicas\obj\Debug\net10.0\refint\Proyecto3_Simulador-LlamadasTelefonicas.dll
+C:\Users\sebas\source\repos\Proyecto3_Simulador-LlamadasTelefonicas\obj\Debug\net10.0\Proyecto3_Simulador-LlamadasTelefonicas.pdb
+C:\Users\sebas\source\repos\Proyecto3_Simulador-LlamadasTelefonicas\obj\Debug\net10.0\Proyecto3_Simulador-LlamadasTelefonicas.genruntimeconfig.cache
+C:\Users\sebas\source\repos\Proyecto3_Simulador-LlamadasTelefonicas\obj\Debug\net10.0\ref\Proyecto3_Simulador-LlamadasTelefonicas.dll
+C:\Users\sebas\source\repos\Proyecto3_Simulador-LlamadasTelefonicas\obj\Debug\net10.0\Proyecto.2F753706.Up2Date
